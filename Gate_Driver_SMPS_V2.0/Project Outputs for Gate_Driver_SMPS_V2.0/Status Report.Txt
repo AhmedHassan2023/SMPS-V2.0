@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Gate_Driver_SMPS_V2.0.PrjPcb]
+   Generated File[Gate_Driver_SMPS_V2.0_PCB5.TXT]
+   Generated File[Gate_Driver_SMPS_V2.0_PCB5.LDP]
+   Generated File[Gate_Driver_SMPS_V2.0_PCB5.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:11:55 PM On 2/26/2024

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=a NewDesignator=R8
+Change Component Designator: OldDesignator=aaaaa NewDesignator=R12
+Added Member To Class: ClassName=Gate_Driver_SMPS_V2.0_Sch Member=Component U1 FOD8332
+Added Room: Name=Gate_Driver_SMPS_V2.0_Sch

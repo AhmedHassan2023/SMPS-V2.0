@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C1 Old Footprint=0603_CAP New Footprint=CAP-1.5
+Change Component Footprint: Designator=C3 Old Footprint=0603_CAP New Footprint=CAP-1.5
+Change Component Footprint: Designator=C4 Old Footprint=0603_CAP New Footprint=CAP-1.5
+Change Component Footprint: Designator=C5 Old Footprint=0603_CAP New Footprint=CAP-1.5
+Change Component Footprint: Designator=C6 Old Footprint=0603_CAP New Footprint=CAP-1.5
+Change Component Footprint: Designator=C2 Old Footprint=WCAP-ASLI_D6.3H7.7 New Footprint=WCAP-ASLI_D5H5.5
+Change Component Footprint: Designator=C13 Old Footprint=WCAP-ASLI_D6.3H7.7 New Footprint=WCAP-ASLI_D5H5.5
+Added Room: Name=Gate_Driver_SMPS_V2.0_Sch

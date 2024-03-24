@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=trans1 Old Footprint=C055928A New Footprint=Transformer_2
+Change Component Comment : Designator=trans1 Old Comment=C055928A New Comment=core-name
+Added Room: Name=Gate_Driver_SMPS_V2.0_Sch

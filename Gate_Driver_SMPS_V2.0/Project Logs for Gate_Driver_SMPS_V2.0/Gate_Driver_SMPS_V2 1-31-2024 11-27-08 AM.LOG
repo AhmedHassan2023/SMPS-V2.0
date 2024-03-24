@@ -1,0 +1,3 @@
+Change Footprint: Cannot match pads with new footprint in component :Q1 Footprint:TO-92A - duplicate
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_C Pin=D3-C

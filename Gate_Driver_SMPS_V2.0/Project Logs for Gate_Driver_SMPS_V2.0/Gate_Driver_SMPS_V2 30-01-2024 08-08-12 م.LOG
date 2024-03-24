@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Add Pin To Net: Unknown Pin: Pin M1-D
+Add Pin To Net: Unknown Pin: Pin M1-G
+Add Pin To Net: Unknown Pin: Pin M1-S
+Add Pin To Net: Unknown Pin: Pin U4-A
+Add Pin To Net: Unknown Pin: Pin U4-C
+Add Pin To Net: Unknown Pin: Pin U4-R
+Added Room: Name=Gate_Driver_SMPS_V2.0_Sch

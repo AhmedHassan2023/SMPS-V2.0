@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP_1206 New Footprint=0603_cap
+Change Component Footprint: Designator=C3 Old Footprint=CAP_1206 New Footprint=0603_cap
+Change Component Footprint: Designator=C4 Old Footprint=CAP_1206 New Footprint=0603_cap
+Change Component Footprint: Designator=C5 Old Footprint=CAP_1206 New Footprint=0603_cap
+Change Component Footprint: Designator=C6 Old Footprint=CAP_1206 New Footprint=0603_cap
+Change Component Footprint: Designator=C7 Old Footprint=CAP_1206 New Footprint=0603_cap
+Change Component Footprint: Designator=C8 Old Footprint=CAP_1206 New Footprint=0603_cap
+Change Component Footprint: Designator=C9 Old Footprint=CAP_1206 New Footprint=0603_cap
+Change Component Footprint: Designator=C10 Old Footprint=CAP_1206 New Footprint=0603_cap
+Change Component Footprint: Designator=C11 Old Footprint=CAP_1206 New Footprint=0603_cap
+Change Component Footprint: Designator=C12 Old Footprint=CAP_1206 New Footprint=0603_cap
+Change Component Footprint: Designator=R1 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R2 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R3 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R4 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R5 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R6 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R7 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R8 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R9 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R10 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R11 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R12 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R13 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R14 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R16 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=R17 Old Footprint=RES_1206 New Footprint=0603_Res
+Change Component Footprint: Designator=H1 Old Footprint=TB2 - V New Footprint=plug
+Added Room: Name=Gate_Driver_SMPS_V2.0_Sch

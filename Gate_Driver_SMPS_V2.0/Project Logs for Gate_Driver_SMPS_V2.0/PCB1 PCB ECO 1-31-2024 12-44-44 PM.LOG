@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=Voiso Pin=D1-C
+Removed Pin From Net: NetName=C Pin=D2-C
+Removed Pin From Net: NetName=NetC12_1 Pin=D4-C
+Change Component Footprint: Designator=D1 Old Footprint=P1-10 New Footprint=us1k_smd
+Change Component Footprint: Designator=D2 Old Footprint=P1-10 New Footprint=us1k_smd
+Change Component Footprint: Designator=D4 Old Footprint=P1-10 New Footprint=us1k_smd
+Change Component Comment : Designator=D1 Old Comment=BA157-E3/54 New Comment=Diode
+Change Component Comment : Designator=D2 Old Comment=BA157-E3/54 New Comment=Diode
+Change Component Comment : Designator=D4 Old Comment=BA157-E3/54 New Comment=Diode
+Change component parameters: Designator = "D1" ("D1"); Footprint = "P1-10"; UniqueID = "\YRCCPYPE" ("\YRCCPYPE")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://diotec.com/de/produktliste/D.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ki_description"; Value = "Diode"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ki_keywords"; Value = "Diode"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Diode"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "P1-10"; UniqueID = "\MUOWWQNO" ("\MUOWWQNO")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://diotec.com/de/produktliste/D.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ki_description"; Value = "Diode"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ki_keywords"; Value = "Diode"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Diode"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "P1-10"; UniqueID = "\OEQKYVTA" ("\OEQKYVTA")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://diotec.com/de/produktliste/D.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ki_description"; Value = "Diode"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ki_keywords"; Value = "Diode"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Diode"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Voiso Pin=D1-K
+Added Pin To Net: NetName=C Pin=D2-K
+Added Pin To Net: NetName=NetC12_1 Pin=D4-K

@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetD4_A Pin=M1-D
+Added Pin To Net: NetName=NetM1_G Pin=M1-G
+Added Pin To Net: NetName=Isns Pin=M1-S
+Add Pin To Net: Unknown Pin: Pin U4-A
+Add Pin To Net: Unknown Pin: Pin U4-C
+Add Pin To Net: Unknown Pin: Pin U4-R
+Added Room: Name=Gate_Driver_SMPS_V2.0_Sch
